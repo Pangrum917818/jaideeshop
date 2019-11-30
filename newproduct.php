@@ -89,7 +89,7 @@
                 <div class="form-group">
                     <label for="name" class="control-label col-md-3">Stock</label>
                     <div class="col-md-9">
-                    <input type="text" name="txtDtock" class="form-control">
+                    <input type="text" name="txtstock" class="form-control">
                     </div>
                 </div>
                 <div class="form-group">
